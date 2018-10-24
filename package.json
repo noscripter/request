@@ -31,7 +31,7 @@
     "mime-types": "~2.1.7",
     "node-uuid": "~1.4.7",
     "qs": "~6.0.2",
-    "tunnel-agent": "~0.4.1",
+    "tunnel-agent": "~0.6.0",
     "tough-cookie": "~2.2.0",
     "http-signature": "~1.1.0",
     "oauth-sign": "~0.8.0",
